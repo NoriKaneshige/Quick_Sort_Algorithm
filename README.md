@@ -3,7 +3,7 @@
 
 ![quick_sort](quick_sort.gif)
 
-![merge_sort_1](https://github.com/NoriKaneshige/Merge_Sort_Algorithm/blob/master/merge_sort_1.png)
+![pivot_pheudo](https://github.com/NoriKaneshige/Quick_Sort_Algorithm/blob/master/pivot_pheudo.png)
 
 > ## Merges two already sorted arrays: :wink:
 

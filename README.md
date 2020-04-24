@@ -3,7 +3,8 @@
 
 ![quick_sort](quick_sort.gif)
 
-![pivot_pheudo](https://github.com/NoriKaneshige/Quick_Sort_Algorithm/blob/master/pivot_pheudo.png)
+![pivot_pseudo](https://github.com/NoriKaneshige/Quick_Sort_Algorithm/blob/master/pivot_pseudo.png)
+![quick_sort_peudo](https://github.com/NoriKaneshige/Quick_Sort_Algorithm/blob/master/quick_sort_peudo.png)
 
 > ## Merges two already sorted arrays: :wink:
 
